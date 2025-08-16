@@ -36,13 +36,18 @@ pip install web3 eth-account requests
 ```
 
 ```bash
+pip install web3 eth-account requests pillow
+```
+
+```bash
 git clone https://github.com/kongali1720/crypto_dashboard.git
 cd crypto_dashboard
 python crypto_dashboard.py
 ```
 
----
+### Catatan: 
 
+  ### Memerlukan pip install requests pillow untuk membuka image.
 
 ---
 
